@@ -12,7 +12,7 @@ csvpath = "./Resources/budget_data.csv"
 with open(csvpath, "r") as csvfile:
     csvreader = csv.reader(csvfile, delimiter = ",")
     header = next(csvreader)
-for row in csvreader:
+    for row in csvreader:
         total_months.append(row[0])
         total_profit.append(int(row[1]))
 
