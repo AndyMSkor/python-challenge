@@ -1,0 +1,5 @@
+Election Results
+_____________________________
+Total Votes: 369711
+['Charles Casper Stockham', 'Dianna Deggette', 'Raymon Anthony Doane']
+{'Dianna Deggette': 'Winner'}
